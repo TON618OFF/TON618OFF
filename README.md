@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @TON618OFF
-- ⚽️ I like to play a football.
-- 🎧 I create a trap or hip-hop music.
-- 💻 I’m currently learning programming on C#, C++, Python, Java, HTML + CSS + JavaScript, also learn how to create a SQL Tables. 
-- 🎮 I like to play different games in the evening with my friends and drink hot tea🍵.
+- 💻 I’m currently learning programming on C#, C++, Python, Java, HTML + CSS + JavaScript, also learn how to create a SQL Tables.
