@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @TON618OFF
-- 💻 I’m currently learning programming on C#, C++, Python, Java, HTML + CSS + JavaScript, also learn how to create a SQL Tables.
+- 💻 I’m currently learning programming on C#, C++, Python, Java, HTML + CSS + JavaScript, also learn how to create a SQL Databases.
