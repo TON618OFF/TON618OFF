@@ -1,4 +1,4 @@
-# 👋 Hello, I'm @TON618OFF
+# 👋 Hao, I'm @TON618OFF 😎
 
 <!--- Гифка --->
 <div align="center">
@@ -31,4 +31,5 @@ I am also focusing on creating modern websites with frameworks like:
   - [x] **ASP.NET** for back-end development
   - [x] **React** for front-end interfaces
 
-Always excited to learn and push my skills further!
+> [!IMPORTANT]
+> ***Always excited to learn and push my skills further!***
