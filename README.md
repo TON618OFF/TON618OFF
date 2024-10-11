@@ -3,9 +3,7 @@
 <!--- Гифка --->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://media1.tenor.com/m/8UntVSgyu6QAAAAC/gojo-satoru-satoru-gojo.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://media1.tenor.com/m/8UntVSgyu6QAAAAC/gojo-satoru-satoru-gojo.gif">
-    <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://media1.tenor.com/m/8UntVSgyu6QAAAAC/gojo-satoru-satoru-gojo.gif">
+    <img alt="Honored Gojo Satoru" src="https://media1.tenor.com/m/8UntVSgyu6QAAAAC/gojo-satoru-satoru-gojo.gif">
   </picture>
 </div>
 
