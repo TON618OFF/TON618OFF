@@ -11,8 +11,9 @@
 
 <!--- Карточки со статистикой профиля --->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON618OFF&theme=midnight-purple&size_weight=0.5&count_weight=0.5&layout=compact&border_radius=25&border_color=2E1A47">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON618OFF&show_icons=true&theme=midnight-purple&border_radius=25&border_color=2E1A47&number_format=short">
+  <img src="https://github-readme-stats.vercel.app/api?username=TON618OFF&show_icons=true&theme=midnight-purple&border_radius=25&border_color=2E1A47&number_format=short"> <!--- Общая статистика профиля --->
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON618OFF&theme=midnight-purple&size_weight=0.5&count_weight=0.5&layout=compact&border_radius=25&border_color=2E1A47"> <!--- Самые используемые ЯП --->
 </div>
 
 
