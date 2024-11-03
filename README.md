@@ -28,13 +28,15 @@
   
 </div>
 
+<!--- Значки --->
 <div align="center">
 
-  ## Technologies & Tools
-  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
-  ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-  ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat-square&logo=dotnet)
+  ## 🛠️Technologies & Tools🛠️
+    
+  ![C#](https://img.shields.io/badge/LEARNING-badge?style=for-the-badge&logoColor=white&logoSize=auto&label=C%23&labelColor=black&color=white&cacheSeconds=3600)
+  ![Unity](https://img.shields.io/badge/unity-badge?style=for-the-badge&logo=unity&logoColor=white&logoSize=auto&labelColor=black&color=white&cacheSeconds=3600)
+  ![React](https://img.shields.io/badge/react-badge?style=for-the-badge&logo=react&logoColor=white&logoSize=auto&labelColor=black&color=white)
+  ![ASP.NET](https://img.shields.io/badge/ASP.NET-badge?style=for-the-badge&logo=.NET&logoColor=white&logoSize=auto&labelColor=black&color=white&cacheSeconds=3600) 
   
 </div>
 
