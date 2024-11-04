@@ -33,10 +33,15 @@
 
   ## 🛠️Technologies & Tools🛠️
     
-  ![C#](https://img.shields.io/badge/LEARNING-badge?style=for-the-badge&logoColor=white&logoSize=auto&label=C%23&labelColor=black&color=white&cacheSeconds=3600)
   ![Unity](https://img.shields.io/badge/unity-badge?style=for-the-badge&logo=unity&logoColor=white&logoSize=auto&labelColor=black&color=white&cacheSeconds=3600)
-  ![React](https://img.shields.io/badge/react-badge?style=for-the-badge&logo=react&logoColor=white&logoSize=auto&labelColor=black&color=white)
+  ![VS Code](https://img.shields.io/badge/vs-code-badge?style=for-the-badge&logo=vs&logoColor=black&logoSize=auto&label=vs&labelColor=black&color=white)
   ![ASP.NET](https://img.shields.io/badge/ASP.NET-badge?style=for-the-badge&logo=.NET&logoColor=white&logoSize=auto&labelColor=black&color=white&cacheSeconds=3600) 
+  ![React](https://img.shields.io/badge/react-badge?style=for-the-badge&logo=react&logoColor=white&logoSize=auto&labelColor=black&color=white)
+  ![Microsoft SQL](https://img.shields.io/badge/microsoft_sql-badge?style=for-the-badge&logo=sqlite&logoColor=white&logoSize=auto&labelColor=black&color=white)
+  ![Jupyter Notebook](https://img.shields.io/badge/jupyter_notebook-badge?style=for-the-badge&logo=jupyter&logoColor=white&logoSize=auto&labelColor=black&color=white)
+  ![Arduino IDE](https://img.shields.io/badge/arduino_ide-badge?style=for-the-badge&logo=arduino&logoColor=white&logoSize=auto&labelColor=black&color=white)
+  ![Inteliij IDEA](https://img.shields.io/badge/intellij_idea-badge?style=for-the-badge&logo=intellij%20idea&logoColor=white&logoSize=auto&labelColor=black&color=white)
+  ![Android Studio](https://img.shields.io/badge/android_studio-badge?style=for-the-badge&logo=android&logoColor=white&logoSize=auto&labelColor=black&color=white)
   
 </div>
 
