@@ -1,7 +1,12 @@
 <div align="center">
   <h1>👋 Hi, I'm @TON618OFF</h1>
   <p><strong>Full-stack developer and tech enthusiast passionate about building cross-platform applications and modern web experiences. Proficient in React/TypeScript, .NET/C#, Python (bots & automation), Java/Spring, Flutter, and exploring game development with Unity.</strong></p>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+      <img src="https://komarev.com/ghpvc/?username=TON618OFF&color=9900FF&style=for-the-badge">
+  </a>  
 </div>
+
+<br>
 
 <!-- Animated GIF -->
 <div align="center">
