@@ -1,11 +1,12 @@
-<div align="center"> 
-  <h1>👋 Hao, I'm @TON618OFF 😎</h1>
+<div align="center">
+  <h1>👋 Hi, I'm @TON618OFF</h1>
+  <p><strong>Full-stack developer and tech enthusiast passionate about building cross-platform applications and modern web experiences. Proficient in React/TypeScript, .NET/C#, Python (bots & automation), Java/Spring, mobile development, and exploring game development with Unity.</strong></p>
 </div>
 
-<!--- Гифка --->
+<!-- Animated GIF -->
 <div align="center">
   <picture>
-    <img alt="Honored Gojo Satoru" src="https://media1.tenor.com/m/8UntVSgyu6QAAAAC/gojo-satoru-satoru-gojo.gif">
+    <img alt="Honored Gojo Satoru" src="https://media1.tenor.com/m/8UntVSgyu6QAAAAC/gojo-satoru-satoru-gojo.gif" width="300">
   </picture>
 </div>
 
@@ -18,52 +19,43 @@
   </a>
 </div>
 
-<!--- Карточки со статистикой профиля --->
+<br>
+
+<!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON618OFF&show_icons=true&theme=midnight-purple&border_radius=25&border_color=2E1A47&number_format=short"> <!--- Общая статистика профиля --->
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON618OFF&theme=midnight-purple&size_weight=0.5&count_weight=0.5&layout=compact&border_radius=25&border_color=2E1A47"> <!--- Самые используемые ЯП --->
+  <img src="https://github-readme-stats.vercel.app/api?username=TON618OFF&show_icons=true&theme=midnight-purple&border_radius=20&border_color=2E1A47&number_format=short" alt="GitHub Stats">
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON618OFF&theme=midnight-purple&size_weight=0.5&count_weight=0.5&layout=compact&border_radius=20&border_color=2E1A47" alt="Top Languages">
 </div>
 
-<!--- Трофеи --->
+<br>
+
+<!-- Trophies -->
 <div align="center">
-  
-  ## 🏆GitHub Trophies🏆
-  <img src="https://github-profile-trophy.vercel.app/?username=TON618OFF&theme=onestar&no-frame=true&margin-w=15&margin-h=15&column=3" alt="GitHub Trophies" />
-  
+  <h2>🏆 GitHub Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=TON618OFF&theme=onestar&no-frame=true&margin-w=15&margin-h=15&column=3" alt="GitHub Trophies">
 </div>
 
-<!--- Значки --->
-<div align="center">
+<br>
 
-  ## 🛠️Technologies & Tools🛠️
-    
-  ![Unity](https://img.shields.io/badge/unity-badge?style=for-the-badge&logo=unity&logoColor=white&logoSize=auto&labelColor=black&color=white&cacheSeconds=3600)
-  ![VS Code](https://img.shields.io/badge/vs-code-badge?style=for-the-badge&logo=vs&logoColor=black&logoSize=auto&label=vs&labelColor=black&color=white)
-  ![ASP.NET](https://img.shields.io/badge/ASP.NET-badge?style=for-the-badge&logo=.NET&logoColor=white&logoSize=auto&labelColor=black&color=white&cacheSeconds=3600) 
-  ![React](https://img.shields.io/badge/react-badge?style=for-the-badge&logo=react&logoColor=white&logoSize=auto&labelColor=black&color=white)
-  ![Microsoft SQL](https://img.shields.io/badge/microsoft_sql-badge?style=for-the-badge&logo=sqlite&logoColor=white&logoSize=auto&labelColor=black&color=white)
-  ![Jupyter Notebook](https://img.shields.io/badge/jupyter_notebook-badge?style=for-the-badge&logo=jupyter&logoColor=white&logoSize=auto&labelColor=black&color=white)
-  ![Arduino IDE](https://img.shields.io/badge/arduino_ide-badge?style=for-the-badge&logo=arduino&logoColor=white&logoSize=auto&labelColor=black&color=white)
-  ![Inteliij IDEA](https://img.shields.io/badge/intellij_idea-badge?style=for-the-badge&logo=intellij%20idea&logoColor=white&logoSize=auto&labelColor=black&color=white)
-  ![Android Studio](https://img.shields.io/badge/android_studio-badge?style=for-the-badge&logo=android&logoColor=white&logoSize=auto&labelColor=black&color=white)
+<!-- Technologies -->
+<div align="center">
+  <h2>🛠️ Technologies & Tools</h2>
   
+  ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Microsoft SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 </div>
 
 ---
 
-<!--- Пояснение к 3D разработке --->
-🎮 Game Development Enthusiast:
-===
-- [x] I'm diving into **3D game development** using the **Unity** engine.
-- [x] Learning how to implement various game mechanics, from character movement to complex game systems.
-
-<!--- Пояснение к WEB разработке --->
-🌐 Web Development Aspirations:
-===
-I am also focusing on creating modern websites with frameworks like:
-  - [x] **ASP.NET** for back-end development
-  - [x] **React** for front-end interfaces
-
 > [!IMPORTANT]
-> ***Always excited to learn and push my skills further!***
+> **Always excited to learn, build, and push my skills further!**  
+> Open to collaborations and interesting projects.
